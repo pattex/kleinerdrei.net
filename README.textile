@@ -1,0 +1,10 @@
+h1. kleinerdrei.net
+
+By Arne Eilermann <eilermann@lavabit.com>
+
+A documentation of my digital adventures.
+"Take a look!":http://kleinerdrei.net
+
+h2. License
+
+p=. <a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/de/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">kleinerdrei.net and all it's content</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kleinerdrei.net/" property="cc:attributionName" rel="cc:attributionURL">Arne Eilermann</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/">Creative Commons Attribution 3.0 Germany License</a> (except of content which is expressly releas under another license).

@@ -16,7 +16,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px 'Palatino Linotype', Palatino, Georgia, FreeSerif, serif;
+  font: 16px 'Palatino Linotype', Palatino, Georgia, FreeSerif, serif;
   *font-size: small;
   text-align: center;
 }
@@ -26,11 +26,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
 }
 
 p {
-  margin: 1em 0;
+  margin: 0.8em 0;
 }
 
 a {
@@ -53,7 +53,7 @@ table {
 hr {
   border: 0;
   background-color: #eee;
-  height: 4px;
+  height: 0.4em;
 }
 
 /*****************************************************************************/
@@ -76,6 +76,19 @@ ul.posts span {
   font-size: 80%;
 }
 
+
+#front-invasion {
+  position: absolute;
+  left: 50%;
+  top: 145px;
+  width: 158px;
+  margin-left: 180px;
+}
+
+#front-invasion img {
+  border: 4px solid #eee;
+}
+
 /*****************************************************************************/
 /*
 /* Site
@@ -85,13 +98,13 @@ ul.posts span {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 40em;
+  width: 560px;
   margin: 0 auto 2em auto;
   line-height: 1.6;
 }
 
 .title {
-  font-size: 1000%;
+  font-size: 800%;
   color: #a00;
   font-weight: bold;
   height: 190px;
@@ -99,7 +112,6 @@ ul.posts span {
   text-shadow: gray 0.1em 0.1em 0.1em;
   background-image: url(/images/invader.png);
   background-repeat: no-repeat;
-  line-height: 130%;
 }
 
 .title, .navigation, .site .title a.extra { font-family: monospace, Monaco, "Courier New"; }
@@ -125,13 +137,14 @@ ul.posts span {
 
 .site .meta {
   color: #aaa;
+  font-size: 90%;
 }
 
 .navigation {
   font-size: 130%;
   color: #eee;
-  border-bottom: 5px solid #eee;
-  margin-bottom: 1em;
+  border-bottom: 0.4em solid #eee;
+  margin-bottom: 0.8em;
 }
 
 .navigation a,
@@ -153,11 +166,11 @@ a.post-title:hover {
 }
 
 .site .footer {
-  font-size: 80%;
+  font-size: 70%;
   color: #666;
-  border-top: 10px solid #eee;
-  border-bottom: 10px solid #eee;
-  margin-top: 2em;
+  border-top: 0.8em solid #eee;
+  border-bottom: 0.8em solid #eee;
+  margin-top: 1.6em;
   overflow: hidden;
 }
 

@@ -12,6 +12,7 @@ h2. Contact me
 * email: eilermann@lavabit.com
 * jabber: pattex@jabber.ccc.de
 * "twitter.com/pattex":http://twitter.com/pattex/
+* "github.com/pattex":https://github.com/pattex
 
 
 h2. License

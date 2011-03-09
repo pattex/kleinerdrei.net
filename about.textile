@@ -5,7 +5,7 @@ title: About Arne Eilermann (pattex)
 
 h1. Arne Eilermann (pattex)
 
-I'm a Ruby programmer from Cologne, Germany. Since 2008 I am working for the "prometheus image archive":http://prometheus-bildarchiv.de/, which is located at the Institute of Art History at the University of Cologne. If you really want to know more, you maybe want to taste the "soup I made":http://pattex.soup.io/.
+I'm a Ruby programmer from Köln, Germany. Since 2008 I am working for the "prometheus image archive":http://prometheus-bildarchiv.de/, which is located at the Institute of Art History at the University of Köln. If you really want to know more, you maybe want to taste the "soup I made":http://pattex.soup.io/.
 
 h2. Contact me
 

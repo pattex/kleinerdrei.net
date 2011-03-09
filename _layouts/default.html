@@ -18,6 +18,15 @@
     <a href="/">&lt;3</a>
   </div>
 
+  {% if page.url == '/index.html' %}
+    {% assign first_invasion = site.tags.invasion.first %}
+    <div id="front-invasion">
+      <a href="{{first_invasion.url}}" class="front-invasion" title="invasion comic">
+        <img src="/files/front/current.png" alt="current invasion comic">
+      </a>
+    </div>
+  {% endif %}
+
   <div class="navigation">
     <a href="/">&lt;3</a> |
     <a href="/about">about</a>
@@ -31,7 +40,7 @@
     <div class="contact">
       <p>
         Arne Eilermann<br />
-        Cologne, Germany<br />
+        Köln, Germany<br />
         eilermann@lavabit.com
       </p>
     </div>

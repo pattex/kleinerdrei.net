@@ -114,7 +114,7 @@ ul.posts span {
   background-repeat: no-repeat;
 }
 
-.title, .navigation, .site .title a.extra { font-family: monospace, Monaco, "Courier New"; }
+.title, .navigation, .site .title a.extra { font-family: monospace, "Courier New"; }
 
 .site .title a {
   color: #a00;

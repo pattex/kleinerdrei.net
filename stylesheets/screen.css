@@ -143,7 +143,7 @@ ul.posts span {
 .navigation {
   font-size: 130%;
   color: #eee;
-  border-bottom: 0.4em solid #eee;
+  border-bottom: 0.2em solid #eee;
   margin-bottom: 0.8em;
 }
 
@@ -168,8 +168,8 @@ a.post-title:hover {
 .site .footer {
   font-size: 70%;
   color: #666;
-  border-top: 0.8em solid #eee;
-  border-bottom: 0.8em solid #eee;
+  border-top: 0.4em solid #eee;
+  border-bottom: 0.4em solid #eee;
   margin-top: 1.6em;
   overflow: hidden;
 }

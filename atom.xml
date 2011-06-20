@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>&lt;3</title>
- <link href="http://kleinerdrei.net/atom.xml" rel="self"/>
- <link href="http://kleinerdrei.net/"/>
+ <link href="https://kleinerdrei.net/atom.xml" rel="self"/>
+ <link href="https://kleinerdrei.net/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://kleinerdrei.net/</id>
+ <id>https://kleinerdrei.net/</id>
  <author>
    <name>Arne Eilermann</name>
    <email>eilermann@lavabit.com</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://kleinerdrei.net{{ post.url }}"/>
+   <link href="https://kleinerdrei.net{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://kleinerdrei.net{{ post.id }}</id>
+   <id>https://kleinerdrei.net{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}

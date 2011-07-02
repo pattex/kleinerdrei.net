@@ -17,9 +17,8 @@
   <div class="title">
     <a href="/">&lt;3</a>
   </div>
-
-  {% if page.url == '/index.html' %}
-    {% assign first_invasion = site.tags.invasion.first %}
+  {% assign first_invasion = site.tags.invasion.first %}
+  {% if page.url == '/index.html' and first_invasion.url != site.posts.first.url %}
     <div id="front-invasion">
       <a href="{{first_invasion.url}}" class="front-invasion" title="invasion comic">
         <img src="/files/front/current.png" alt="current invasion comic">

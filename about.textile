@@ -9,7 +9,7 @@ I'm a Ruby programmer from Köln, Germany. Since 2008 I am working for the "prom
 
 h2. Contact me
 
-* email: eilermann [at] lavabit.com
+* email: eilermann [at] lavabit.com ("GnuPG key":/files/eilermann@lavabit.com.asc)
 * jabber: pattex@jabber.ccc.de
 * "twitter.com/pattex":https://twitter.com/pattex/
 * "github.com/pattex":https://github.com/pattex

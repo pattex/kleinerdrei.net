@@ -253,3 +253,5 @@ img.with-border {
   #related h2 {
     margin-bottom: 1em;
   }
+
+div.flattr_button { text-align: right; }

@@ -10,6 +10,7 @@
 
    <link rel="stylesheet" href="/stylesheets/syntax.css" type="text/css" />
    <link rel="stylesheet" href="/stylesheets/screen.css" type="text/css" media="screen, projection" />
+   {% include flattr_loader.html %}
 </head>
 <body>
 
@@ -53,8 +54,7 @@
     <div class="feature">
       <p>
         This site is powerd by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.<br />
-        Design mostly borrowed from<br />
-        <a href="http://tom.preston-werner.com/">Tom Preston-Werner</a>. Thanks for that!
+        {{ site | flattr_button }}
       </p>
     </div>
   </div>

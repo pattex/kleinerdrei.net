@@ -1,3 +1,11 @@
+title: kleinerdrei.net &lt;3
 permalink: /:year/:month/:day/:title
+url: https://kleinerdrei.net
+flattr_uid: pattex
+flattr_button: compact
+flattr_mode: auto
+flattr_popout: 0
+flattr_language: en_GB
+flattr_category: text
 exclude:
 - README.textile

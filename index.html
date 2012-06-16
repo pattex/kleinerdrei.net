@@ -6,9 +6,9 @@ title: my home!
 
   {% assign first_post = site.posts.first %}
   <h1><a href="{{ first_post.url }}" class="post-title">{{ first_post.title }}</a></h1>
-  <p class="meta">{{ first_post.date | date_to_string }}</p>
+  <p class="meta">{{ first_post.date | date_to_long_string }} | <a href="{{ first_post.url }}#disqus_thread">Comments</a></p>
   {{ first_post.content }}
-
+  <div class="flattr_button">{{ site | flattr_button:first_post }}</div>
   <hr />
 
   <h2>All Posts</h2>

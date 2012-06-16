@@ -4,10 +4,10 @@ title: About Arne Eilermann
 ---
 # Arne Eilermann
 
-I'm a Ruby programmer from Köln, Germany. Since 2008 I am working for the
-[prometheus image archive](http://prometheus-bildarchiv.de/), which is located
-at the Institute of Art History at the University of Köln. If you really want to
-know more, you maybe want to taste the [soup I made](http://pattex.soup.io/).
+I'm a Ruby programmer from Köln, Germany. After a few nice years at the [prometheus image archive](http://prometheus-bildarchiv.de/), which is located at the Institute of Art History at the University of Köln, I'm now working for the [bevuta IT GmbH](http://www.bevuta.com/).  
+You really want to know more? Taste the [soup I made](http://pattex.soup.io/).
+
+If you understand the german language, and are into science fiction, fantasy and other stuff like that, you may be interested in the little podcast [megamagisch](http://megamagis.ch/)» which my friend [Max](http://www.verdammtguterkuchen.de/) and I produce.
 
 ## Contact me
 

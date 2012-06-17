@@ -24,7 +24,7 @@ task :default => [:build]
 
 desc "Builds the website."
 task :build do
-  system('jekyll')
+  system("jekyll #{PATHS[:public_dir]}")
 end
 
 desc "Puts a new post template in #{PATHS[:posts]}."

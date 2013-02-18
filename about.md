@@ -19,6 +19,6 @@ If you understand the german language, and are into science fiction, fantasy and
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/de/88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/de/88x31.png" /></a>
 [kleinerdrei.net]({{ site.url }}) and all its content by Arne Eilermann
 is licensed under a [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/) (except of content which is expressly releas under another license).

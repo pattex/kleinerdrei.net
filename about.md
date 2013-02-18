@@ -14,6 +14,7 @@ If you understand the german language, and are into science fiction, fantasy and
 * email: eilermann\[at\]lavabit.com ([GnuPG key](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x397C6A2CC1ACAEE7))
 * jabber: pattex@jabber.ccc.de
 * [twitter.com/pattex](https://twitter.com/pattex/)
+* [alpha.app.net/pattex](https://alpha.app.net/pattex)
 * [github.com/pattex](https://github.com/pattex)
 
 

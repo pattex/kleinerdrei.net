@@ -1,0 +1,83 @@
+---
+layout: default
+title: Verschlüsseltes Chatten mit Pidgin und OTR unter Windows (für Anfänger)
+tags:
+- Galaxian
+- IM
+- Jabber
+- OTR
+- Owl Content
+- Pidgin
+- Tutorial
+- Verschlüsselung
+- de
+status: publish
+# type: post
+published: true
+meta:
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+  _utw_tags_0: a:7:{i:0;O:8:"stdClass":1:{s:3:"tag";s:2:"IM";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Jabber";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"OTR";}i:3;O:8:"stdClass":1:{s:3:"tag";s:11:"Owl-Content";}i:4;O:8:"stdClass":1:{s:3:"tag";s:6:"Pidgin";}i:5;O:8:"stdClass":1:{s:3:"tag";s:8:"Tutorial";}i:6;O:8:"stdClass":1:{s:3:"tag";s:16:"Verschlüsselung";}}
+  _edit_last: '21'
+---
+<h1><a href="{{page.url}}">{{ page.title }}</a></h1>
+
+<p><b>Achtung, da mein altes Blog inzwischen dicht ist, habe ich diesen Artikel, hierher umgezogen. Er wird immer noch oft gelesen und scheint noch für viele Leute von Nutzen zu sein. Der Artikel ist von 2008 und evtl. nicht mehr völlig aktuell. Ich hoffem Du hast trotzdem etwas davon.</b></p>
+
+<p>Viele Freunde und Bekannte von mir benutzen Instant Messaging, größtenteils ICQ. Ich persönlich bin ja der Meinung, dass Jabber/XMPP die Zukunft ist und benutze es deshalb auch ausschließlich. Wieso Jabber die coolere Lösung als ICQ, AIM, MSN und wie sie alle heißen ist, will ich hier nicht diskutieren (jedenfalls nicht in diesem Text, flamen und trollen ist in den Kommentaren möglich). Dies kann z.B. <a href="http://de.wikipedia.org/wiki/Jabber" title="Jabber - Wikipedia">hier nachgelesen werden</a>.</p>
+
+<p>Vor kurzem haben <a href="http://nureinhobby.org/jeck" title="jecks juvenile journals">Jeck</a> und ich damit begonnen, unserem Bekanntenkreis Jabber und <a href="http://de.wikipedia.org/wiki/Off-the-Record_Messaging" title="Off-the-Record Messaging - Wikipedia">Off-the-Record Messaging</a> (OTR) näher zu bringen und hatten auch ziemlich viel Erfolg damit. Gerade OTR hat einige Leute bei weitem mehr interessiert, als ich es für möglich gehalten hätte. Denn viele, denen das Verschlüsseln ihrer Korrespondenzen bis vor Kurzem noch überflüssig und zu mühsam erschien, sehen ihre Privatsphäre zum ersten Mal bedroht. Wer sich früher noch nicht vorstellen konnte, dass überhaupt jemand ein Interesse daran haben könnte, mitzulesen, bekommt nun fast täglich in der Tagesschau das Gegenteil unter die Nase gerieben.</p>
+
+<p>Die meisten unserer Bekannten benutzen Windows und sind nicht gerade Computer-Nerds. Also hieß es für uns, nach einer möglichst einfachen Lösung zu suchen. Und wir meinen, dass wir mit dem Multi-Protokoll-Client <a href="http://pidgin.im/" title="Home | Pidgin">Pidgin</a> plus OTR-Plugin etwas gefunden haben, womit die meisten Leute klarkommen sollten.<br />
+Dass es technisch durchaus bessere Clients gibt ist uns klar, doch lagen unsere Prioritäten in diesem Fall eben anders. Eine Liste weiterer IM-Clients mit OTR-Unterstützung gibt es am Ende des Artikels.</p>
+
+<p>Aufgrund des großen Interesses sah ich Bedarf an einer möglichst einfachen Schritt für Schritt Anleitung für Windows-Benutzer ohne nennenswerte Computer-Nerd-Ambitionen.<br />
+Und hier ist sie:</p>
+
+<p><strong>1. Besorg Dir die benötigte Software:</strong><br />
+Die hier verwendete Software ist freie Software. Und in diesem Fall heißt das nicht auschließlich frei im Sinne von frei wie ein Vogel, sondern auch noch frei wie Freibier.<br />
+Pidgin, also das Programm mit dem ab jetzt gechattet wird, kannst Du <a href="http://pidgin.im/download/" title="Download | Pidgin">hier laden</a>. Das Plugin für die Verschlüsselung per OTR <a href="http://www.cypherpunks.ca/otr/#downloads" title="Off-the-Record Messaging">gibt es hier</a>. Und zwar ist <em>Win32 installer for pidgin 2.x</em> der Download der Wahl.</p>
+
+<p><strong>2. Installiere die herunter geladene Software:</strong><br />
+Installiere als erstes Pidgin. Die Installation ist recht unkompliziert. Immer schön lächeln, zustimmen und "weiter" klicken. Am Ende der Installation wird gefragt, ob Pidgin nun gestartet werden soll. Hier kannst Du mit Nein antworten.<br />
+Als nächstes ist nun das Plugin an der Reihe. Auch hier ist die Installation nicht komplizierter. Wenn das Plugin installiert ist, kannst Du Pidgin zum ersten Mal starten.</p>
+
+<p><strong>3. Füge ein Benutzerkonto hinzu:</strong><br />
+Beim ersten Start fragt Dich Pidgin, ob Du nicht ein Benutzerkonto hinzufügen möchtest. Natürlich möchtest Du!<br />
+Mit Klick auf den Button <em>Hinzufügen</em> öffnet sich ein Fenster, über welches Du bestehende Konten in Pidgin einrichten und neue erstellen kannst (<a href="/files/images/jabber-otr/new_account.jpg" title="">Bild</a>). Da Pidgin verschiedene Protokolle unterstützt, kannst Du hier auch Deinen alten ICQ (oder sonst was) Account einrichten, auch wenn das nicht sonderlich cool ist.<br />
+Einen Jabber-Account hast Du vielleicht auch schon. Wenn Du z.B. über ein Google-Konto (<em>Google Talk</em> an Stelle von <em>XMPP</em> wählen), eine E-Mail-Adresse bei web.de oder GMX verfügst, bist Du schon voll ausgestattet. Weitere Informationen dazu findest Du natürlich auf der <a href="http://de.wikipedia.org/wiki/Jabber#Besondere_Server" title="Jabber - Wikipedia">allwissenden Müllhalde</a>.<br />
+Wir wollen hier aber jetzt ein komplett neues Konto erstellen. Wähle dazu zunächst das Protokoll <em>XMPP</em> (offizieller Name!) im Drop-Down-Menü. Such Dir einen schicken Benutzernamen aus und schreibe ihn in das entsprechende Feld.<br />
+In das Domain-Feld gehört der Jabber-Server Deines Vertrauens. Das könnte z.B. <a href="http://www.jabber.org/" title="Open Instant Messaging and a Whole Lot More, Powered by XMPP"><em>jabber.org</em></a> oder <a href="http://web.swissjabber.ch/index.php/Hauptseite" title="Hauptseite - Swissjabber"><em>swissjabber.ch</em></a> sein. Ich persönlich mag <a href="http://web.jabber.ccc.de/" title="web.jabber.ccc.de"><em>jabber.ccc.de</em></a>, der ist zwar manchmal etwas zickig, dafür aber vertrauenswürdig und sympathisch.<br />
+Such Dir noch ein gutes Passwort aus und setze ganz unten ein Häkchen um den Account neu zu erstellen. Weitere Häkchen kannst Du nach Bedarf machen. Sieh Dich einfach ein bisschen im Fenster um, SSL bzw. TLS ist z.B. immer ein Häkchen wert.<br />
+Bestätige deine Angaben und wenn Dein gewählter Benutzername nicht schon vergeben war, hast Du es fast geschafft.<br />
+</p>
+
+<p><strong>4. Sorge für Verschlüsselung:</strong><br />
+Um über Deinen nagelneuen Jabber-Account verschlüsselt kommunizieren zu können, musst Du jetzt nur noch das OTR-Plugin einrichten. Dazu klickst Du in der Menüleiste des Pidgin Fensters <em>Werkzeuge</em> und dann <em>Plugins</em>. Ein neues Fenster öffent sich (<a href="/files/images/jabber-otr/plugins.jpg" title="">Bild</a>).<br />
+In diesem Fenster scrollst Du runter, bis Du <em>Off-the-Record-Messaging</em> gefunden hast. Da machst Du ein Häkchen dran.<br />
+Jetzt wählst Du das Plugin aus und klickst unten am Fester auf den Button zum Konfigurieren des Plugins. Ein weiteres Fenster öffnet sich (wer hätte es für möglich gehalten?!) (<a href="/files/images/jabber-otr/configotr.jpg" title="">Bild</a>). Geh zunächst sicher, dass die Häkchen zum Einschalten und zum automatischen Einleiten der Verschlüsselung gesetzt sind. Dann wählst Du oben aus dem Drop-Down-Menü einen Account aus und klickst den Button <em>Generate</em> um einen Schlüssel zu erzeugen. Falls Du mehrere Accounts eingerichtet hast, tu Dir keinen Zwang an und generiere Schlüssel für alle. OTR ist nicht nur mit Jabber möglich, generiere also auch Schlüssel für Deine ICQ- oder was weiß ich was für Accounts.<br />
+<strong>Fertig!</strong><br />
+Ab jetzt kannst Du mit jedem, dessen Client OTR unterstützt, verschlüsselt Nachrichten hin- und herschicken und keiner kann mitlesen. Toll, oder?</p>
+
+<p>Wenn Du anderen Deine neue Jabber-ID mitteilen willst, musst Du natürlich noch wissen, wie sie aussieht. Sie setzt sich aus Deinem Benutzernamen und der Domain des Servers getrennt durch ein "@" zusammen. In unserem Beispiel wäre das "beispiel@jabber.ccc.de".<br />
+Sieht aus wie eine E-Mail-Adresse, ist aber keine!</p>
+
+<p>Ich werde es zwar wahrscheinlich bereuen, aber egal: Falls Du niemanden zur Hand haben solltest, mit dem Du Dein neues Spielzeug mal ausprobieren kannst, wende Dich vertrauensvoll an mich.<br />
+Meine Jabber-ID lautet: <em>pattex@jabber.ccc.de</em></p>
+
+<p><em>Da ich selber kein Windows-Benutzer bin, mag es sein, dass diese Anleitung nicht ganz optimal ist. Anmerkungen bitte in die Kommentare.</em></p>
+
+<strong>Weitere IM-Clients mit OTR-Unterstützung</strong><br />
+Direkte Unterstützung:
+<ul>
+	<li><a href="http://www.adiumx.com/" title="Adium - Download">Adium</a> (Mac OS X)</li>
+	<li><a href="http://www.climm.org/" title="CLI-based Multi-Messenger">climm</a> (plattformübergreifend)</li>
+	<li><a href="http://www.lilotux.net/~mikael/mcabber/" title="MCabber Homepage">MCabber</a> (UNIX[artige])</li>
+</ul>
+Unterstützung durch ein Plugin:
+<ul>
+	<li><a href="http://kopete.kde.org/" title="Kopete, the KDE Instant Messenger - Kopete, The KDE Instant Messenger">Kopete</a> (UNIX[artige]) - <a href="http://www.kde-apps.org/content/show.php/Kopete+OTR+Plugin?content=55002" title="&nbsp;Kopete OTR Plugin KDE-Apps.org">Plugin</a></li>
+	<li><a href="http://www.miranda-im.org/" title="Miranda IM - Home of the Miranda IM client.  Smaller, Faster, Easier">Miranda IM</a> (Windows) - <a href="http://addons.miranda-im.org/details.php?action=viewfile&amp;id=2644" title="Addons - Miranda IM">Plugin</a></li>
+	<li><a href="http://pidgin.im/" title="Home | Pidgin">Pidgin</a> (plattformübergreifend) - <a href="http://www.cypherpunks.ca/otr/#downloads" title="Off-the-Record Messaging">Plugin</a></li>
+	<li><a href="http://psi-im.org/" title="Psi - Home">Psi</a> (plattformübergreifend) - <a href="http://www.tfh-berlin.de/~s717689/" title="Jabber Off-the-Record Messaging Software">Plugin</a></li>
+	<li><a href="http://www.ceruleanstudios.com/" title="Creators of Trillian and Trillian Pro Instant Messengers">Trillian Pro</a> (Windows) - <a href="http://trillianotr.kittyfox.net/" title="Welcome to the Trillian Off-The-Record Homepage!">Plugin</a></li>
+</ul>

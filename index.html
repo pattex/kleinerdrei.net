@@ -2,19 +2,19 @@
 layout: default
 title: my home!
 ---
-<div id="home">
-
-  {% assign first_post = site.posts.first %}
-  <h1><a href="{{ first_post.url }}" class="post-title">{{ first_post.title }}</a></h1>
-  <p class="meta">{{ first_post.date | date_to_long_string }} | <a href="{{ first_post.url }}#disqus_thread">Comments</a></p>
-  {{ first_post.content }}
-  <div class="flattr_button">{{ site | flattr_button:first_post }}</div>
-  <hr />
-
-  <h2>All Posts</h2>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" class="post-title">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="jumbotron">
+  <h1>Super awesome marketing speak!</h1>
+  <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 </div>
+
+<hr>
+
+<div class="row-fluid marketing">
+{% for post in site.posts limit:3 %}
+  <div class="span4">
+    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    <p>{{ post.content | truncatewords:60 }}</p>
+  </div>
+{% endfor %}
+</div>
+

@@ -2,9 +2,52 @@
 layout: default
 title: Blog
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% for post in paginator.posts %}
+<article>
+ <header>
+  <div class="page-header">
+    <h1><a href="{{ post.url }}" >{{ post.title }}</a></h1>
+  </div>
+ </header>
+  {{ post.content }}
+ <footer class="well well-small">
+  {{ post.date | date_to_long_string }}
+  <a href="{{ post.url }}#disqus_thread" class="badge badge-important">Comments</a>
+  <span class="pull-right">{{ site | flattr_button:post }}</span>
+ </footer>
+</article>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div id="post-pagination" class="pagination pagination-centered">
+  <ul>
+    {% if paginator.previous_page %}
+    <li>
+      {% if paginator.previous_page == 1 %}
+      <a href="/blog">&laquo;</a>
+      {% else %}
+      <a href="/page{{paginator.previous_page}}">&laquo;</a>
+      {% endif %}
+    </li>
+    {% else %}
+    <li class="disabled"><a href="#">&laquo;</a></li>
+    {% endif %}
+
+    <li{% if paginator.page == 1 %} class="active"{% endif %}>
+      <a href="/blog">1</a>
+    </li>
+
+    {% for count in (2..paginator.total_pages) %}
+    <li{% if count == paginator.page %} class="active"{% endif %}>
+      <a href="/page{{count}}">{{ count }}</a>
+    </li>
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <li><a href="/page{{paginator.next_page}}">&raquo;</a></li>
+    {% else %}
+    <li class="disabled"><a href="#">&raquo;</a></li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}

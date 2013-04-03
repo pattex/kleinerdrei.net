@@ -1,3 +1,5 @@
+require "jekyll/pagination"
+
 module Jekyll
 
   class Post

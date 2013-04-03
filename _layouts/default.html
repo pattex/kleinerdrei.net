@@ -26,21 +26,23 @@
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
           <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="/">Home</a></li>
+          <li{% if page.url == "/blog.html"  or page.post %} class="active"{% endif %}><a href="/blog">Blog</a></li>
           <li class="dropdown{% if page.url == "/podcasts.html" %} active{% endif %}">
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">
               Podcasts
               <b class="caret"></b>
             </a>
             <ul class="dropdown-menu">
+              <li><a href="/podcasts">Podcasts at all</a></li>
               <li><a href="/podcasts#megamagisch">megamagisch</a></li>
-              <li><a href="/podcasts#zuzweit">zu zweit</a></li>
+              <li><a href="/podcasts#zu_zweit">zu zweit</a></li>
             </ul>
           </li>
-          <li{% if page.url == "/octpod.html" %} class="active"{% endif %}><a href="/octopod">Octopod</a></li>
+          <li{% if page.url == "/octopod.html" %} class="active"{% endif %}><a href="/octopod">Octopod</a></li>
           <li{% if page.url == "/about.html" %} class="active"{% endif %}><a href="/about">About</a></li>
         </ul>
         <div class="page-header">
-          <h1>&lt;3</h1>
+          <h1 class="muted">&lt;3</h1>
         </div>
       </div>
 

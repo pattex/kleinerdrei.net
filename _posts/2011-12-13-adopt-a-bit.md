@@ -5,6 +5,7 @@ categories: blog
 tags:
 - adopt a bit
 - toys
+- en
 ---
 While you are browsing the web, including this nice little website, a lot of assiduous little guys are doing all the work for you. You may have heard of them. They're called »bits« and deserve some gratitude.
 

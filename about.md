@@ -11,7 +11,7 @@ If you understand the german language, and are into science fiction, fantasy and
 
 ## Contact me
 
-* email: arne\[at\]kleinerdrei.net ([PGP public key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x397C6A2CC1ACAEE7))
+* email: arne \[ät\] kleinerdrei.net ([PGP public key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x397C6A2CC1ACAEE7))
 * jabber: [pattex@jabber.ccc.de](xmpp:pattex@jabber.ccc.de)
 * [twitter.com/pattex](https://twitter.com/pattex/)
 * [alpha.app.net/pattex](https://alpha.app.net/pattex)

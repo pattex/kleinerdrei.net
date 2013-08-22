@@ -11,7 +11,7 @@ layout: nil
  <id>{{ site.url }}/</id>
  <author>
    <name>Arne Eilermann</name>
-   <email>eilermann@lavabit.com</email>
+   <email>arne@kleinerdrei.net</email>
  </author>
 
  {% for post in site.posts %}

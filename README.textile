@@ -1,6 +1,6 @@
 h1. kleinerdrei.net
 
-By Arne Eilermann <eilermann@lavabit.com>
+By Arne Eilermann <arne@kleinerdrei.net>
 
 A documentation of my digital adventures.
 "Take a look!":http://kleinerdrei.net

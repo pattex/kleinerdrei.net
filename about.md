@@ -19,7 +19,7 @@ title: About Arne Eilermann
     <strong>en</strong>
     <p>
       I like to do things.<br>
-      Professional, I develop software and provide advice to companies and projects in terms of IT and online related Questions as well as conflict resolution and communications with complicated costumers. When I'm not working, I podcast, play the guitar or tell someone that it's a good idea to encrypt data.
+      Professional, I develop software and provide advice to companies and projects in terms of IT and online related questions as well as conflict resolution and communication with complicated customers. When I'm not working, I podcast, play the guitar or tell someone that it's a good idea to encrypt data.
     </p>
     <p>
       Apart from that, I recommend to taste the <a href="http://pattex.soup.io/">soup I make</a>.
@@ -61,7 +61,7 @@ title: About Arne Eilermann
   </div>
   <div class="span6">
     <p>
-      You like the stuff I do, you've got too much money or you may want to give pleasure to someone (me)? Here are some options::
+      You like the stuff I do, you've got too much money or you may want to treat someone (me)? Here are some options::
     </p>
     <ul>
       <li>

@@ -2,21 +2,85 @@
 layout: default
 title: About Arne Eilermann
 ---
-# Arne Eilermann
+<h1>Arne Eilermann <small>pattex</small></h1>
 
-I'm a Ruby programmer from Köln, Germany. After a few nice years at the [prometheus image archive](http://prometheus-bildarchiv.de/), which is located at the Institute of Art History at the University of Köln, I'm now working for the [bevuta IT GmbH](http://www.bevuta.com/).  
-You really want to know more? Taste the [soup I made](http://pattex.soup.io/).
-
-If you understand the german language, and are into science fiction, fantasy and other stuff like that, you may be interested in the little podcast «[megamagisch](http://megamagis.ch/)» which my friend [Max](http://www.verdammtguterkuchen.de/) and I produce.
+<div class="row-fluid">
+  <div class="span6">
+    <strong>de</strong>
+    <p>
+      Ich tue gerne Dinge.<br>
+      Professionell entwickle ich Software und berate Firmen und Projekte, sowohl in IT- und Online-Angelegenheiten, als auch in Sachen Konfliktlösung und bei der Kommunikation mit schwierigen Kunden. Wenn ich nicht arbeite podcaste ich, spiele Gitarre oder erzähle irgendwem, dass es eine gute Idee ist, Daten zu verschlüsseln.
+    </p>
+    <p>
+      Ansonsten schlage ich vor, einfach mal die <a href="http://pattex.soup.io/">Suppe zu probieren</a>, die ich koche.
+    </p>
+  </div>
+  <div class="span6">
+    <strong>en</strong>
+    <p>
+      I like to do things.<br>
+      Professional, I develop software and provide advice to companies and projects in terms of IT and online related Questions as well as conflict resolution and communications with complicated costumers. When I'm not working, I podcast, play the guitar or tell someone that it's a good idea to encrypt data.
+    </p>
+    <p>
+      Apart from that, I recommend to taste the <a href="http://pattex.soup.io/">soup I make</a>.
+    </p>
+  </div>
+</div>
 
 ## Contact me
 
 * email: arne \[ät\] kleinerdrei.net ([PGP public key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x397C6A2CC1ACAEE7))
 * jabber: [pattex@jabber.ccc.de](xmpp:pattex@jabber.ccc.de)
-* [twitter.com/pattex](https://twitter.com/pattex/)
 * [alpha.app.net/pattex](https://alpha.app.net/pattex)
+* [twitter.com/pattex](https://twitter.com/pattex/)
 * [github.com/pattex](https://github.com/pattex)
 
+## Support
+
+<div class="row-fluid">
+  <div class="span6">
+    <p>
+      Dir gefallen die Dinge, die ich tue, Du hast zu viel Geld oder willst einfach irgendwem (mir) ein Freude machen? Hier ein paar Möglichkeiten dazu:
+    </p>
+    <ul>
+      <li>
+        Du findest an fast allem, was ich so produziere, solche kleinen <a href="https://flattr.com">Flattr</a>-Buttons:
+        <a class="FlattrButton" style="display:none;" title="kleinerdrei.net &lt;3" href="https://kleinerdrei.net"  data-flattr-uid="pattex" data-flattr-popout="1" data-flattr-button="compact" data-flattr-category="text" data-flattr-language="en_GB">kleinerdrei.net &lt;3</a><br>
+        Wenn Du einen Flattr-Account hast – was ich empfehle – kannst Du mich und <a href="https://flattr.com/catalog" title="Catalog - Flattr.com">viele andere</a> auf diesem Weg sehr gut unterstützen.
+      </li>
+      <li>
+        Des weiteren freue ich mich immer sehr über Geschenke von meiner <a href="http://www.amazon.de/registry/wishlist/SVTTOPEX09XF">Amazon Wunschliste</a>.
+      </li>
+      <li>
+        <a href="http://bitcoin.org/">Bitcoin</a> geht auch: <small><a href="bitcoin:1HAZqfUVMW3aWgTeFUMcvbWbE6EByWfKs7">1HAZqfUVMW3aWgTeFUMcvbWbE6EByWfKs7</a></small>
+      </li>
+      <li>
+        Und natürlich <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9JX9DU47YJUQ8">PayPal</a>.
+      </li>
+    </ul>
+  </div>
+  <div class="span6">
+    <p>
+      You like the stuff I do, you've got too much money or you may want to give pleasure to someone (me)? Here are some options::
+    </p>
+    <ul>
+      <li>
+        On pretty much everything I produce you'll find those small <a href="https://flattr.com">Flattr</a> buttons:
+        <a class="FlattrButton" style="display:none;" title="kleinerdrei.net &lt;3" href="https://kleinerdrei.net"  data-flattr-uid="pattex" data-flattr-popout="1" data-flattr-button="compact" data-flattr-category="text" data-flattr-language="en_GB">kleinerdrei.net &lt;3</a><br>
+        As long as you have a Flattr account – and I recommend this – you are able to support me and <a href="https://flattr.com/catalog" title="Catalog - Flattr.com">many others</a> this way.
+      </li>
+      <li>
+        In addition I'm always super duper happy about gifts from my <a href="http://www.amazon.de/registry/wishlist/SVTTOPEX09XF">Amazon wishlist</a>.
+      </li>
+      <li>
+        <a href="http://bitcoin.org/">Bitcoin</a> is also possible: <small><a href="bitcoin:1HAZqfUVMW3aWgTeFUMcvbWbE6EByWfKs7">1HAZqfUVMW3aWgTeFUMcvbWbE6EByWfKs7</a></small>
+      </li>
+      <li>
+        And <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9JX9DU47YJUQ8">PayPal</a>, of course.
+      </li>
+    </ul>
+  </div>
+</div>
 
 ## License
 

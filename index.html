@@ -3,19 +3,19 @@ layout: default
 title: my home!
 ---
 <div class="jumbotron">
-  <h1>Mostly harmless.</h1>
+  <h1>Cryptoevangelist</h1>
   <p class="lead">
-    Generally speaking, when scary things get scared, not good.
+    Like a cryptozoologist, but for religious reasons without the animals.
   </p>
 </div>
 
 <hr>
 
 <div class="row-fluid marketing">
-{% for post in site.posts limit:3 %}
-  <div class="span4">
+{% for post in site.posts limit:2 %}
+  <div class="span6">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <p>{{ post.content | truncatewords:60 }}</p>
+    <p>{{ post.content | truncatewords:120 }}</p>
   </div>
 {% endfor %}
 </div>

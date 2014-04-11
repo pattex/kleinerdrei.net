@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/pattex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kleinerdrei.net
+  * I am pattex (https://keybase.io/pattex) on keybase.
+  * I have a public key with fingerprint 0307 F944 B1AA A985 F35E  6401 397C 6A2C C1AC AEE7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0307f944b1aaa985f35e6401397c6a2cc1acaee7",
+            "host": "keybase.io",
+            "key_id": "397C6A2CC1ACAEE7",
+            "uid": "42705e4d570ff6adc06c9f9c58141200",
+            "username": "pattex"
+        },
+        "service": {
+            "hostname": "kleinerdrei.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397256010,
+    "expire_in": 157680000,
+    "prev": "06bc01d552c930db1851ebca071da743660864c123ed17402e07c65ea9bb5bc3",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+Comment: GPGTools - http://gpgtools.org
+
+owE1kVtIFFEYx3e9pC5IlqG5aNBAlqXLmfvuSsG2GmZkgZBF4Dpz5uzueJmZZsfV
+ZV3MDS1RLKXsQYsUuz6YDyZEKhtakWlK2UMFIURmRAgm9VQ0I3ZeDuf7fv//dzlX
+UuNNyebYdrje8O37oPlV7CdvKi+RS8MYLwshzBnGatDG5RUlH1IVVZQ0zIkBErBe
+B0XxOMdxDjvtJWnEUAAnHSxkOAJCnIMcQiyWj/nlgKHQbXgugGyirMf0h0cU9KjO
+uxkX4XbjLreruNjg6zcSFMECGlECzQKvl+EECBjo8DogbccpnADAAANIlbg6pNMK
+p2moEYvkY3osKEJkdGwU3szX1CJRQqqgItEmIU0XK6qsyVCu1ZN+TVMCTkOshRSD
+bkC8Z9PHw4uSoE+uK4JIDYiyhDlxnYSaaBgb8xI0A3CQj6FGRVSRRzQImmXsQD9G
+HRQ09sXwEOACTRPQQQKBx+00jnjIARYXOJYiGQbYGQriBIkEnKUAgYC+SBpxDp6n
+eUhixmTnJBlz0nqbnE+3DIg+idPqVYRF2s3ZCSZzsmlLYpzxdyZLStr/H0V3k02t
+h+aLTsWutucc52wrYn+Rq2KAH/6x88ESKBC7Yd2Ku2v/QtuzI3FPb3TORKPa5LI7
+cffpl3sLV2NWy6fzVn/WyFpq5b5j6dax8GfPbGmbeah3whYKt4T+PBo8M/W2s9mX
+eeFAUvVU9ev6rXNBU9X43Iu13JS/j/MsZdbCPq2vOm88+8TZ6+P+Grnv1mxklH7y
+MC1rYL6las/qGHn0V7RnoqK8qXXHYWtC//CdoYA99fLFylUl5+vCmxLLorYtY875
+5VJ8UsaQtend8sz7gu7J0WtdmQfvTd8e+TDWMYx6lUhPYmbcybKl6annH9d39d5f
+xkKLuemhkt83VaWjOfoP
+=p3vP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pattex
+
+==================================================================

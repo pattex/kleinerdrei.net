@@ -2,7 +2,7 @@
 layout: default
 title: About Arne Eilermann
 ---
-<h1>Arne Eilermann <small>pattex</small></h1>
+<h1>Arne Eilermann <small>(pattex)</small></h1>
 
 <div class="row-fluid">
   <div class="span6">
@@ -29,8 +29,9 @@ title: About Arne Eilermann
 
 ## Contact me
 
-* email: arne \[ät\] kleinerdrei.net ([PGP public key](https://keybase.io/pattex))
+* email: arne \[ät\] kleinerdrei.net ([PGP public key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x397C6A2CC1ACAEE7))
 * jabber: [pattex@jabber.ccc.de](xmpp:pattex@jabber.ccc.de)
+* [keybase.io/pattex](https://keybase.io/pattex)
 * [alpha.app.net/pattex](https://alpha.app.net/pattex)
 * [twitter.com/pattex](https://twitter.com/pattex/)
 * [github.com/pattex](https://github.com/pattex)

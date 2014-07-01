@@ -5,7 +5,7 @@ title: Podcasts
 ## Podcasts
 <div class="row-fluid">
   <div class="span6">
-    <h3>de</h3>
+    <strong>de</strong>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -16,7 +16,7 @@ title: Podcasts
     </p>
   </div>
   <div class="span6">
-    <h3>en</h3>
+    <strong>en</strong>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -29,6 +29,7 @@ title: Podcasts
 </div>
 
 ## megamagisch
+![megamagisch](/images/megamagisch.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

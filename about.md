@@ -39,6 +39,12 @@ title: About Arne Eilermann
 
 * email: arne \[ät\] kleinerdrei.net ([PGP public key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x397C6A2CC1ACAEE7))
 * jabber: [pattex@jabber.ccc.de](xmpp:pattex@jabber.ccc.de)
+
+Arne Eilermann  
+Ritterstraße 181  
+47805 Krefeld  
+Germany
+
 * [alpha.app.net/pattex](https://alpha.app.net/pattex)
 * [twitter.com/pattex](https://twitter.com/pattex/)
 * [keybase.io/pattex](https://keybase.io/pattex)

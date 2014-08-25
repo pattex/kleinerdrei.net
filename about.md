@@ -27,14 +27,21 @@ title: About Arne Eilermann
   </div>
 </div>
 
+## Other website-ish stuff
+
+* [megamagisch – phantastik und futurologie](http://megamagis.ch/) – Podcast about diverse nerd-cultural phenomenons (german)
+* [was ich las](http://wasichlas.tumblr.com/) – Short comments and reviews on the comics and books I've read lately (german)
+* [pattex.tumblr.com](http://pattex.tumblr.com/) – Some random stuff
+* [pattex.soup.io](http://pattex.soup.io/) – All the random stuff
+* [github.com/pattex](https://github.com/pattex) – A little bit of neglected code
+
 ## Contact me
 
 * email: arne \[ät\] kleinerdrei.net ([PGP public key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x397C6A2CC1ACAEE7))
 * jabber: [pattex@jabber.ccc.de](xmpp:pattex@jabber.ccc.de)
-* [keybase.io/pattex](https://keybase.io/pattex)
 * [alpha.app.net/pattex](https://alpha.app.net/pattex)
 * [twitter.com/pattex](https://twitter.com/pattex/)
-* [github.com/pattex](https://github.com/pattex)
+* [keybase.io/pattex](https://keybase.io/pattex)
 
 ## Support
 

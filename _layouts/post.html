@@ -14,19 +14,5 @@ post: true
    {{ page.date | date_to_long_string }}
    <span class="pull-right">{{ site | flattr_button:page }}</span>
   </p>
-
-  <div id="disqus_thread"></div>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript=kleinerdrei">comments powered by Disqus.</a></noscript>
-  <a href="https://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
  </footer>
 </article>
-
-<script type="text/javascript">
-  (function() {
-   var disqus_identifier = '{{ page.url }}';
-   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-   dsq.src = 'https://kleinerdrei.disqus.com/embed.js';
-   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-

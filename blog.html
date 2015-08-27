@@ -12,7 +12,6 @@ title: Blog
   {{ post.content }}
  <footer class="well well-small">
   {{ post.date | date_to_long_string }}
-  <a href="{{ post.url }}#disqus_thread" class="badge badge-important">Comments</a>
   <span class="pull-right">{{ site | flattr_button:post }}</span>
  </footer>
 </article>

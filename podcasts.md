@@ -2,47 +2,11 @@
 layout: default
 title: Podcasts
 ---
-## Podcasts
-<div class="row-fluid">
-  <div class="span6">
-    <strong>de</strong>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
-  </div>
-  <div class="span6">
-    <strong>en</strong>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
-  </div>
-</div>
-
 ## megamagisch
 ![megamagisch](/images/megamagisch.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Magisch ist zu wenig. [Dieser Podcast](https://megamagis.ch) kümmert sich um die Kultur jenseits des Magischen. Wem «megamagisch» nicht übertrieben genug scheint, dem sei gesagt, dass wir mit jeder Folge nicht weniger als die Reise zum Mittelpunkt der Nerde anstreben und auf dem Weg dahin alles verschlingen, was es an phantastischen Büchern, futurologischen Gedanken, atemberaubenden Comics oder schnöden Unstimmigkeiten des Kosmos zu diskutieren gibt.
 
-## Radio &lt;3
+Arne Eilermann, [Sarah Burrini](http://sarahburrini.com), [Peter Eberst](http://www.petereberst.de) und  [Max v. Malotki](http://www.verdammtguterkuchen.de) legen sich nicht auf eine Domäne des Geek-Universums fest… Hauptsache es geht um phantastische Kultur und jedes Thema wird so aufbereitet, dass es auch von einer Katze, einem Pony und Xander Harris verstanden werden kann.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Live long and prosper while the force is with you. *\*Laserschwertgeräusch\**

@@ -27,17 +27,7 @@
         <ul class="nav nav-pills pull-right">
           <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="/">Home</a></li>
           <li{% if page.url == "/blog.html" or page.post or paginator %} class="active"{% endif %}><a href="/blog">Blog</a></li>
-          <li class="dropdown {% if page.url == "/podcasts.html" %} active{% endif %}">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-              Podcasts
-              <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="/podcasts">Podcasts at all</a></li>
-              <li><a href="/podcasts#megamagisch">megamagisch</a></li>
-              <li><a href="/podcasts#radio_3">Radio &lt;3</a></li>
-            </ul>
-          </li>
+          <li{% if page.url == "/podcasts.html" %} class="active"{% endif %}><a href="/podcasts">Podcast</a></li>
           <li{% if page.url == "/about.html" %} class="active"{% endif %}><a href="/about">About</a></li>
         </ul>
         <div class="page-header">

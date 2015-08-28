@@ -45,7 +45,6 @@ Ritterstraße 181
 47805 Krefeld  
 Germany
 
-* [alpha.app.net/pattex](https://alpha.app.net/pattex)
 * [twitter.com/pattex](https://twitter.com/pattex/)
 * [keybase.io/pattex](https://keybase.io/pattex)
 

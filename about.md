@@ -9,7 +9,7 @@ title: About Arne Eilermann
     <strong>de</strong>
     <p>
       Ich tue gerne Dinge.<br>
-      Professionell entwickle ich Software und berate Firmen und Projekte, sowohl in IT- und Online-Angelegenheiten, als auch in Sachen Konfliktlösung und bei der Kommunikation mit schwierigen Kunden. Wenn ich nicht arbeite podcaste ich, spiele Gitarre oder erzähle irgendwem, dass es eine gute Idee ist, Daten zu verschlüsseln.
+      Professionell entwickle ich Software und berate Firmen und Projekte, sowohl in IT- und Online-Angelegenheiten, als auch in Sachen Konfliktlösung und bei der Kommunikation mit schwierigen Kunden. Wenn ich nicht arbeite klettere oder podcaste ich, spiele Gitarre oder erzähle irgendwem, dass es eine gute Idee ist, Daten zu verschlüsseln.
     </p>
     <p>
       Ansonsten schlage ich vor, einfach mal die <a href="http://pattex.soup.io/">Suppe zu probieren</a>, die ich koche.
@@ -19,7 +19,7 @@ title: About Arne Eilermann
     <strong>en</strong>
     <p>
       I like to do things.<br>
-      Professional, I develop software and provide advice to companies and projects in terms of IT and online related questions as well as conflict resolution and communication with complicated customers. When I'm not working, I podcast, play the guitar or tell someone that it's a good idea to encrypt data.
+      Professional, I develop software and provide advice to companies and projects in terms of IT and online related questions as well as conflict resolution and communication with complicated customers. When I'm not working, I do rock climbing or create podcasts, play the guitar or tell someone that it's a good idea to encrypt data.
     </p>
     <p>
       Apart from that, I recommend to taste the <a href="http://pattex.soup.io/">soup I make</a>.

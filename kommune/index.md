@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kommune <3
+category: kommune
 ---
 <h1>Kommune <span class="red-ish">&lt;3</span></h1>
 

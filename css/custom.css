@@ -38,3 +38,7 @@ body {
 div.masthead div.page-header h1 {
   font-family: monospace, "Courier New";
 }
+
+.red-ish {
+  color: #9D261D;
+}

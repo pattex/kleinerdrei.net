@@ -38,7 +38,7 @@ title: About Arne Eilermann
 ## Contact me
 
 * email: arne \[ät\] kleinerdrei.net ([PGP public key](/files/85A8013B.asc))
-* jabber: [pattex@jabber.ccc.de](xmpp:pattex@jabber.ccc.de)
+* jabber: [arne@jabber.kleinerdre.net](xmpp:arne@jabber.kleinerdre.net)
 
 Arne Eilermann  
 Ritterstraße 181  

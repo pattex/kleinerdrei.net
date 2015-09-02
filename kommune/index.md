@@ -11,9 +11,9 @@ Zur Zeit bietet sie allen Mitbewohner\*innen:
 * [E-Mail](/kommune/email)
 * [Webspace](/kommune/web)
 * [Kontakt & Kalender Sync](/kommune/kontakt-kalender-sync)
-* [Extrawürste](/kommune/extrawurst) (vegan!)
+* Extrawürste (vegan!)
 
-Außerdem stellt die Kommune <span class="red-ish">&lt;3</span> einen [Jabber/XMPP-Server](/kommune/jabber) für alle zur Verfügung.
+Außerdem stellt die Kommune <span class="red-ish">&lt;3</span> einen [Jabber/XMPP-Server](/jabber) für alle zur Verfügung.
 
 Diesen Seiten hier sind als Hilfe und Information für Mitbewohner\*innen und Nuter\*innen des Jabber-Servers gedacht und sollen stetig ausgebaut werden. Antworten auf Fragen zu einem bestimmten Service befinden sich höchstwahrscheinlich auf de entsprechenden Seite zum Thema.  
 Die Frage, wie die E-Mail auf dem eigenen Smartphone einzurichten ist, wird z.B. höchstwahrscheinlich auf dem [E-Mail-Seite](/kommune/email) beantwortet. Alles weitere sollte hoffentlich eines Tages in der  [Reste-Hilfe](/kommune/reste-hilfe) geklärt werden.

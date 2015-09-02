@@ -14,8 +14,8 @@ Alles was noch an allgemeinen Fragen übrig ist, weil es nicht direkt unter eine
 ## <a name="zwei-accounts">Die zwei Accounts</a>
 Mitbewohner\*innen haben möglicherweise zwei verschiedene Accounts. Denn die Kommune <span class="red-ish">&lt;3</span> ist in zwei "Bereiche" aufgeteilt:
 
-* ***wohnen***: Mit diesem Account können sich Mitbewohner\*innen einloggen um ihrem Webspace zu verwalten oder aber auch die [Extrawürste](/kommune/extrawurst) genießen.
-* ***post***: Hierbei handelt es sich um den Account für E-Mail und das Synchonisieren von Kalender und Kontaktdaten
+* ***wohnen***: Mit diesem Account können sich Mitbewohner\*innen einloggen um ihrem [Webspace](/kommune/web) zu verwalten oder aber auch die *Extrawürste* genießen.
+* ***post***: Hierbei handelt es sich um den Account für [E-Mail](kommune/email) und das [Synchonisieren von Kalender und Kontaktdaten](kommune/kontakt-kalender-sync).
 
 Es ist eine gute Idee hier zwei verschiedene Passwörter zu verwenden.
 
@@ -32,8 +32,8 @@ Geschafft, jetzt hast Du irgendein (wahrscheinlich ziemlich leeres) Fenster vor 
 
 * <code>ssh</code> ist der name des Programms, dass Du gerade ausführen möchtest
 * <code>BENUTZERNAME</code> ist der Name den Du Dir mal ausgesucht hast
-* <code>SERVERADRESSE</code> gibt an, auf welchem Server Du Dich einlogen möchtest
-* <code>-p PORT</code> ist eine Nummer, die neben der Adresse des Servers noch etwas genauer angibt, wo die Verbindung hin geht. Stell dir die Portnummer wie die Zimmernummer vor, wenn unsere Serveradresse die Adresses eines Hotels ist.
+* <code>SERVERADRESSE</code> gibt an, auf welchem Server Du Dich einloggen möchtest
+* <code>-p PORT</code> ist eine Nummer, die neben der Adresse des Servers noch etwas genauer angibt, wo die Verbindung hin geht. Stell Dir die Portnummer wie die Zimmernummer vor, wenn unsere Serveradresse die Adresses eines Hotels ist.
 
 Dieser Befehl wird dann mit der Enter-Taste abgesetzt, Dein Computer verbindet sich mit dem Server und wenn wir nichts anderes für Dich eingerichtet haben, wirst Du nach Deinem Passwort gefragt. Wundere Dich bei der Eingab nicht, dass Du nichts angezeigt bekommst (nicht mal Sternchen!), das gehört so. Auch Dein Passwort schickst Du mit der Enter-Taste ab.  
 Nun bist Du auf per SSH auf dem Server eingeloggt.
@@ -64,9 +64,7 @@ Are you sure you want to continue connecting (yes/no)? <span class="red-ish">yes
 Das hätte er dann mit *yes* bestätigt.  
 Dann noch eine kleine Warnung…
 
-<pre>
-Warning: Permanently added 'wohnen.kleinerdrei.net,2a01:4f8:151:52c4::4201' (ECDSA) to the list of known hosts.
-</pre>
+    Warning: Permanently added 'wohnen.kleinerdrei.net,2a01:4f8:151:52c4::4201' (ECDSA) to the list of known hosts.
 
 …und er hätte dann auch in diesem Fall sein Passwort eingeben können.
 

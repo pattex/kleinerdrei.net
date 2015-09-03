@@ -23,7 +23,6 @@ title: jabber.kleinerdrei.net
   * [Was für Daten werden gespeichert?](#was_fr_daten_werden_gespeichert)
   * [Was geschieht mit diesen Daten?](#was_geschieht_mit_diesen_daten)
   * [Wer hat Zugriff auf diese Daten?](#wer_hat_zugriff_auf_diese_daten)
-* [Support](#support)
 * [Noch was](#noch_was)
 
 ## Einen neuen Account anlegen

@@ -31,6 +31,8 @@ Einen Account auf jabber.kleinerdrei.net bekommst Du ganz einfach. Kurz: Euer Ja
 
 Ich habe vor vielen Jahren mal eine [Anleitung für unbedarfte Windows-User](/legacy/2008-01-18-verschlusseltes-chatten-mit-pidgin-und-otr-unter-windows-fur-anfanger) geschrieben. Vielleicht hilft sie Dir ja ein bisschen.
 
+Der Server ist unter Umständen nicht immer offen für das anlegen neuer Accounts. Es ist ein ausdrückliches Ziel von mir, hier Infrastruktur für alle zur Verfügung zu stellen, aber sobald es sich zu anstrengend anfühlt, erst mal keine weiteren Accounts zuzulassen, bis sich die Lage wieder entspannt hat. Denn Entspannung ist gut.
+
 Denk aber bitte daran, dass unbenutzte Accounts 12 Monate nach dem letzten Login möglicherweise gelöscht werden.
 
 ## Passwort vergessen

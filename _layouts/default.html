@@ -25,13 +25,20 @@
     <div class="container-narrow">
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="/">Home</a></li>
+
           <li{% if page.url == "/blog.html" or page.post or paginator %} class="active"{% endif %}><a href="/blog">Blog</a></li>
+
           <li{% if page.url == "/podcasts.html" %} class="active"{% endif %}><a href="/podcasts">Podcast</a></li>
+
+          <li{% if page.url == "/jabber.html" %} class="active"{% endif %}><a href="/jabber">jabber.kleinerdrei.net</a></li>
+
+
+
           <li{% if page.url == "/about.html" %} class="active"{% endif %}><a href="/about">About</a></li>
+
         </ul>
         <div class="page-header">
-          <h1 class="muted">&lt;3</h1>
+          <h1 class="muted"><a href="/">&lt;3</a></h1>
         </div>
       </div>
 

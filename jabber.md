@@ -32,7 +32,7 @@ title: jabber.kleinerdrei.net
 
 ## Einen neuen Account anlegen
 
-Einen Account auf jabber.kleinerdrei.net bekommst Du ganz einfach. Kurz: Euer Jabber-Client hilft Euch dabei. Je nach Ausführung heisst das "Account creation" oder so ähnlich – und dann gebt Ihr einfach diesen Server hier (eben *jabber.kleinerdrei.net*) an und den gewünschten local-Part der Jabber-ID (JID) (also das vor dem *@jabber.kleinerdrei.net*).
+Einen Account auf jabber.kleinerdrei.net bekommst Du ganz einfach. Kurz: Dein Jabber-Client hilft Dir dabei. Je nach Ausführung heisst das "Account creation" oder so ähnlich – und dann gibst Du einfach diesen Server hier (eben *jabber.kleinerdrei.net*) an und den gewünschten local-Part der Jabber-ID (JID) (also das vor dem *@jabber.kleinerdrei.net*).
 
 Ich habe vor vielen Jahren mal eine [Anleitung für unbedarfte Windows-User](/legacy/2008-01-18-verschlusseltes-chatten-mit-pidgin-und-otr-unter-windows-fur-anfanger) geschrieben. Vielleicht hilft sie Dir ja ein bisschen.
 
@@ -86,6 +86,6 @@ Es sei jedoch darauf hingewiesen, dass Daten, die unverschlüsselt durch das Int
 ## Noch was
 Unklarheiten und weitere Fragen können immer gerne mit [mir besprochen werden](/about#contact_me).
 
-Dieser Server unterliegt dem Recht und der Datenschutzbestimmungen der Bundesrepublik Deutschland und der Europäischen Union.
+Dieser Server unterliegt dem Recht und den Datenschutzbestimmungen der Bundesrepublik Deutschland und der Europäischen Union.
 
 Einen Großteil des Textes auf dieser Seite habe ich dankend von [web.jabber.ccc.de](http://web.jabber.ccc.de) gemopst, denn hier ist vieles sehr ähnlich, wenn auch alles etwas kleiner. Gefragt habe ich danach dann auch noch. :-)

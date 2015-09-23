@@ -32,7 +32,19 @@
 
           <li{% if page.url == "/jabber.html" %} class="active"{% endif %}><a href="/jabber">jabber.kleinerdrei.net</a></li>
 
-
+          <li class="dropdown{% if page.category == "kommune" %} active{% endif %}">
+            <a class="dropdown-toggle"
+               data-toggle="dropdown"
+               href="#">
+              Kommune &lt;3
+              <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="/kommune/">Über Kommune <span class="red-ish">&lt;3</span></a></li>
+              <li><a href="/kommune/web">Webspace</a></li>
+              <li><a href="/kommune/reste-hilfe">Reste-Hilfe</a></li>
+            </ul>
+          </li>
 
           <li{% if page.url == "/about.html" %} class="active"{% endif %}><a href="/about">About</a></li>
 

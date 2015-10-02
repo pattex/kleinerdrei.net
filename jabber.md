@@ -58,8 +58,6 @@ Prinzipiell werden vom Server die folgenden Daten gespeichert:
 * Während Benutzer\*innen nicht angemeldet sind, werden eingehende Nachrichten, die an sie adressiert sind zwischengespeichert, damit diese zugestellt werden können, wenn sie sich das nächste mal anmelden. Zu diesen Nachrichten wird auch gespeichert, wann sie angekommen sind.
 * Bei Fehlern in der Zustellung einer Nachricht wird abgespeichert von wem an wen die Nachricht ging und wieso die Zustellung nicht funktionierte. Nicht jedoch der Inhalt der Nachricht. Dies ist notwendig um bei gehäuften Fehlern ein Problem feststellen zu können.
 
-Es werden übrigens **keine IP-Adressen gespeichert**. Ich denke, das dürfte für einige von Euch von interesse sein.
-
 Desweiteren ist es möglich, dass der Jabber-Client Daten auf dem Server abspeichert. Diese Daten können vom Jabber-Client entweder so gespeichert werden, dass sie von anderen Jabber-Nutzer\*innen abgefragt werden können (z.B. vCards die Kontaktinformationen enthalten) oder so dass nur der/die Benutzer\*in des Kontos die Daten wieder abrufen kann (z.B. Einstellungen eines Jabber-Clients).
 Welche Daten, in welchem Umfang und für wie lange so gespeichert werden ist Sache des Jabber-Clients.
 

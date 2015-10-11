@@ -17,11 +17,6 @@ title: jabber.kleinerdrei.net
 </div>
 -->
 
-<div class="alert alert-block">
-  <h2>Achtung: Noch in der Testphase</h2>
-  <p>Ja, ich weiß, mich nervt es auch, dass immer überall noch <strong>beta</strong> dran stehen muss. Aber ich möchte hier zumindest mal eine Weile gucken, wie sich die Software unter Last verhält, bevor ich großartige Versprechung mache. Ich kann aber durchaus schon mal sagen, dass ich guter Dinge bin. :-)</p>
-</div>
-
 * [Einen neuen Account anlegen](#einen_neuen_account_anlegen)
 * [Passwort vergessen](#passwort_vergessen)
 * [Privacy](#privacy)

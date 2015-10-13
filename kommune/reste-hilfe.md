@@ -44,14 +44,22 @@ Konkret würde der ganze Spaß für einen Mitbewohner, mit dem Namen *xander*, d
 <pre>
 # <span class="red-ish">ssh xander@wohnen.kleinerdrei.net</span>
 Password for xander@wohnen.kleinerdrei.net:
+Last login: Tue Oct 13 14:26:04 2015 from …
+
+&lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3
+&lt;3            Willkommen auf wohnen.kleinerdrei.net!              &lt;3
+&lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3
 […]
-Welcome to FreeBSD!
-[…]
-$ 
+$ <span class="red-ish">nethack -u Buffy</span>
+$ <span class="red-ish">exit</span>
+Connection to <em>[Xanders IP-Adresse]</em> closed.
+#
 </pre>
 
 Hat geklappt! \o/
 Xander musste hier keine Portnummer mit <code>-p PORT</code> angeben, weil *wohnen.kleinerdrei.net* die Standard-Portnummer (22) verwendet.
+
+Nachdem er ein Ründchen [NetHack](https://de.wikipedia.org/wiki/NetHack) gespielt hat, hat sich Xander mit dem Befehl <code>exit</code> wieder vom Server abgemeldet.
 
 Würde Xander sich jetzt zum ersten Mal mit diesem Server verbinden, bekäme er von seinem SSH die Frage gestellt, ob das denn wirklich der Server ist, zu dem er sich verbinden möchte. Das würde dann in etwa so ausgesehen:
 

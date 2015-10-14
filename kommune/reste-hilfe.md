@@ -10,11 +10,12 @@ Alles was noch an allgemeinen Fragen übrig ist, weil es nicht direkt unter eine
 * [Die zwei Accounts (*wohnen* und *post*)](#die_zwei_accounts_wohnen_und_post)
 * [Per SSH verbinden](#per_ssh_verbinden)
 * [Das Passwort ändern](#das_passwort_ndern)
+* [NetHack spielen](#nethack_spielen)
 
 ## Die zwei Accounts (*wohnen* und *post*)
 Mitbewohner\*innen haben möglicherweise zwei verschiedene Accounts. Denn die Kommune <span class="red-ish">&lt;3</span> ist in zwei "Bereiche" aufgeteilt:
 
-* ***wohnen***: Mit diesem Account können sich Mitbewohner\*innen einloggen um ihrem [Webspace](/kommune/web) zu verwalten, [NetHack zu spielen](#) oder aber auch die *Extrawürste* zu genießen.
+* ***wohnen***: Mit diesem Account können sich Mitbewohner\*innen einloggen um ihrem [Webspace](/kommune/web) zu verwalten, [NetHack zu spielen](#nethack_spielen) oder aber auch die *Extrawürste* zu genießen.
 * ***post***: Hierbei handelt es sich um den Account für [E-Mail](kommune/email) und das [Synchonisieren von Kalender und Kontaktdaten](kommune/kontakt-kalender-sync).
 
 *Es ist eine gute Idee hier zwei verschiedene Passwörter zu verwenden.*
@@ -59,7 +60,7 @@ Connection to <em>[Xanders IP-Adresse]</em> closed.
 Hat geklappt! \o/
 Xander musste hier keine Portnummer mit <code>-p PORT</code> angeben, weil *wohnen.kleinerdrei.net* die Standard-Portnummer (22) verwendet.
 
-Nachdem er ein Ründchen [NetHack](https://de.wikipedia.org/wiki/NetHack) gespielt hat, hat sich Xander mit dem Befehl <code>exit</code> wieder vom Server abgemeldet.
+Nachdem er ein Ründchen [NetHack](#nethack_spielen) gespielt hat, hat sich Xander mit dem Befehl <code>exit</code> wieder vom Server abgemeldet.
 
 Würde Xander sich jetzt zum ersten Mal mit diesem Server verbinden, bekäme er von seinem SSH die Frage gestellt, ob das denn wirklich der Server ist, zu dem er sich verbinden möchte. Das würde dann in etwa so ausgesehen:
 
@@ -130,3 +131,19 @@ Enter new password:
 Re-type new password: 
 $ 
 </pre>
+
+## NetHack spielen
+
+Gegen Langeweile oder gute Laune hilft [NetHack]() spielen. NetHack ist ein superschwieriges, aber auch ziemlich geniales Computerspiel, das die Fantasyfreund\*innen unter den Kommune <span class="red-ish">&lt;3</span> Mitbewohner\*innen sicher unterhalten dürfte. Eine gewisse Frustrationstoleranz vorausgesetzt.
+
+Der Spaß sieht ungefähr so aus:
+<img class="thumbnail" src="/files/images/kommune/Nethack-dragons.png" alt="NetHack Screenshot">
+<small>Der Screenshot steht unter der [NetHack General Public License](http://www.nethack.org/common/license.html) und kommt [von hier](https://commons.wikimedia.org/wiki/File:Nethack-dragons.png?uselang=de). Dankeschön.</small>
+
+Um NetHack spielen zu können, musst Du Dich [per SSH mit Deinem *wohnwn*-Account verbinden](#per_ssh_verbinden). Das Spiel Startest Du mit dem Befehl `nethack`.  
+Wenn Du gerne bunt haben möchtest, erledigt das dieser Befehl für Dich. Danach hast Du bunt, für immer. :-)
+
+    echo "OPTIONS=color" > ~/.nethackrc
+
+Eine Spielanleitung (glaub mir, die ist nötig!) findest Du hier: [http://www.nethack.org/v343/Guidebook.html](http://www.nethack.org/v343/Guidebook.html)  
+Und jede Menge weitere nützliche Informationen gibt es hier: [https://nethackwiki.com](https://nethackwiki.com)

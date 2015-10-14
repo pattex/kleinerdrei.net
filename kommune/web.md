@@ -9,7 +9,7 @@ Als Mitbewohner\*in der Kommune <span class="red-ish">&lt;3</span> hast Du natü
 Aber es gibt jede Menge sinnvolle Dinge, die Du mit einem Webserver anstellen kannst.
 
 ## Wie Du Deinen Webspace nutzen kannst
-Wenn Du Dich mit Deinen *[wohnen](/kommune/reste-hilfe#zwei-accounts)*-Zugangsdaten einloggst, landest Du in Deinem *Home-Verzeichnis*. In diesem Verzeichnis kannst Du Deine Dateien organisieren und Dich breit machen.  
+Wenn Du Dich mit Deinen *[wohnen](/kommune/reste-hilfe#die_zwei_accounts_wohnen_und_post)*-Zugangsdaten einloggst, landest Du in Deinem *Home-Verzeichnis*. In diesem Verzeichnis kannst Du Deine Dateien organisieren und Dich breit machen.  
 Unter Anderem liegt in diesem Verzeichnis bereits ein weiteres Verzeichnis namens `www`. In diesem Verzeichnis sind dann wieder weitere, die nach den Domains benannt sind, zu denen sie gehören. Bei Xander sieht das zum Beispiel so aus.
 
     www
@@ -24,7 +24,7 @@ Legt Xander beispielsweise eine [HTML](https://de.wikipedia.org/wiki/Hypertext_M
         └── index.html
 
 ### Einloggen
-Um Dateien hochladen, löschen, verschieben oder sonst wie manipulieren zu können, musst Du Dich, wie gesagt, einloggen. Das ist, [wie hier beschrieben per SSH möglich](/kommune/reste-hilfe#ssh). SSH bietet aber nicht nur die Möglichkeit, sich mit einem Server zu verbinden um dort Befehle abzusetzen. Per SSH lässt sich auch das total überholte FTP-Protokoll zum Dateitransfer ersetzen. Das nennt sich dann [SFTP](https://de.wikipedia.org/wiki/SSH_File_Transfer_Protocol) und ist mit vielen einfach zu bedienenden grafischen Programmen wie [Cyberduck](https://cyberduck.io/) (Mac OS) oder [FileZilla](https://filezilla-project.org/) (Windows/Linux/Mac OS) möglich.
+Um Dateien hochladen, löschen, verschieben oder sonst wie manipulieren zu können, musst Du Dich, wie gesagt, einloggen. Das ist, [wie hier beschrieben per SSH möglich](/kommune/reste-hilfe#per_ssh_verbinden). SSH bietet aber nicht nur die Möglichkeit, sich mit einem Server zu verbinden um dort Befehle abzusetzen. Per SSH lässt sich auch das total überholte FTP-Protokoll zum Dateitransfer ersetzen. Das nennt sich dann [SFTP](https://de.wikipedia.org/wiki/SSH_File_Transfer_Protocol) und ist mit vielen einfach zu bedienenden grafischen Programmen wie [Cyberduck](https://cyberduck.io/) (Mac OS) oder [FileZilla](https://filezilla-project.org/) (Windows/Linux/Mac OS) möglich.
 
 **Daten, die Du brauchst, um Dich zu verbinden sind:**
 

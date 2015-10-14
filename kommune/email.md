@@ -7,7 +7,7 @@ category: kommune
 
 ## Konfiguration
 
-Zum nutzen Deiner E-Mail musst Du Deine [post-Zugangsdaten](/kommune/reste-hilfe#zwei-accounts) verwenden. Nicht vergessen!
+Zum nutzen Deiner E-Mail musst Du Deine [post-Zugangsdaten](/kommune/reste-hilfe#die_zwei_accounts_wohnen_und_post) verwenden. Nicht vergessen!
 
 * [Allgemein](#allgemein)
 * [iOS (iPhone/iPad)](#ios_iphoneipad)

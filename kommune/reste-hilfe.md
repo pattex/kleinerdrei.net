@@ -7,20 +7,20 @@ category: kommune
 Alles was noch an allgemeinen Fragen übrig ist, weil es nicht direkt unter einem der konkreten Themen geklärt wurde, soll hier abgehandelt werden.  
 **Wenn danach noch immer Fragen offen oder etwas blöd erklärt sind, melde Dich bitte, ich werde mein Bestes geben.**
 
-* [Die zwei Accounts (*wohnen* und *post*)](#zwei-accounts)
-* [Per SSH verbinden](#ssh)
-* [Das Passwort ändern](#passwort-aendern)
+* [Die zwei Accounts (*wohnen* und *post*)](#die_zwei_accounts_wohnen_und_post)
+* [Per SSH verbinden](#per_ssh_verbinden)
+* [Das Passwort ändern](#das_passwort_ndern)
 
-<h2 id="zwei-accounts">Die zwei Accounts (<em>wohnen</em> und <em>post</em>)</h2>
+## Die zwei Accounts (*wohnen* und *post*)
 Mitbewohner\*innen haben möglicherweise zwei verschiedene Accounts. Denn die Kommune <span class="red-ish">&lt;3</span> ist in zwei "Bereiche" aufgeteilt:
 
-* ***wohnen***: Mit diesem Account können sich Mitbewohner\*innen einloggen um ihrem [Webspace](/kommune/web) zu verwalten oder aber auch die *Extrawürste* genießen.
+* ***wohnen***: Mit diesem Account können sich Mitbewohner\*innen einloggen um ihrem [Webspace](/kommune/web) zu verwalten, [NetHack zu spielen](#) oder aber auch die *Extrawürste* zu genießen.
 * ***post***: Hierbei handelt es sich um den Account für [E-Mail](kommune/email) und das [Synchonisieren von Kalender und Kontaktdaten](kommune/kontakt-kalender-sync).
 
 *Es ist eine gute Idee hier zwei verschiedene Passwörter zu verwenden.*
 
 
-<h2 id="ssh">Per SSH verbinden</h2>
+## Per SSH verbinden
 Für einige Aktionen musst Du Dich per [SSH](https://de.wikipedia.org/wiki/Secure_Shell) auf dem Server einloggen. Für manche Leute ist das sehr ungewohnt, denn hier müssen in einem Terminal Befehle in Textform eingegeben werden. Aber keine Angst, alles wird gut, das ist alles ganz einfach.
 
 Um loslegen zu können, brauchst Du zunächst mal ein Programm um Deine Befehle eingeben zu können. Wenn Du auf Deinem Computer [Linux](https://de.wikipedia.org/wiki/Linux), ein [BSD](https://de.wikipedia.org/wiki/Berkeley_Software_Distribution) oder Wilderes einsetzt, gehe ich davon aus, dass Du weißt, wie Du ein Terminal öffnen kannst.
@@ -39,7 +39,7 @@ Geschafft, jetzt hast Du irgendein (wahrscheinlich ziemlich leeres) Fenster vor 
 Dieser Befehl wird dann mit der Enter-Taste ↵ abgesetzt, Dein Computer verbindet sich mit dem Server und wenn wir nichts anderes für Dich eingerichtet haben, wirst Du nach Deinem Passwort gefragt. Wundere Dich bei der Eingabe Deines Passworts nicht, dass Du nichts angezeigt bekommst (nicht mal Sternchen!), das gehört so. Auch Dein Passwort schickst Du mit der Enter-Taste ab.  
 Nun bist Du auf per SSH auf dem Server eingeloggt.
 
-Konkret würde der ganze Spaß für einen Mitbewohner, mit dem Namen *xander*, der sich mit dem "[Bereich](#zwei-accounts)" *wohnen* verbinden möchte, so aussehen:
+Konkret würde der ganze Spaß für einen Mitbewohner, mit dem Namen *xander*, der sich mit dem "[Bereich](#die_zwei_accounts_wohnen_und_post)" *wohnen* verbinden möchte, so aussehen:
 
 <pre>
 # <span class="red-ish">ssh xander@wohnen.kleinerdrei.net</span>
@@ -77,7 +77,7 @@ Dann noch eine kleine Warnung…
 
 …und nun könnte er dann auch in diesem Fall sein Passwort eingeben.
 
-<h2 id="passwort-aendern">Das Passwort ändern</h2>
+## Das Passwort ändern
 Passwörter zu ändern ist eine gute Idee. Insbesondere wenn Du es gerade frisch per E-Mail zugeschickt bekommen hast.
 
 Bitte achte darauf, dass Deine Passwörter einigermaßen sicher sind. Das bedeutet, sie sollten nicht zu kurz sein (eine Länge von 12 Zeichen ist für den Anfang ganz OK) und auch nicht einfach in einem Wörterbuch stehen. Ein bisschen Chaos sollte da schon drin sein.  
@@ -85,7 +85,7 @@ Das Programm zum Ändern des Passwortes hilft Dir aber auch ein bisschen dabei, 
 
 Fällt Dir selbst kein geeignetes Passwort ein, gib einfach den Befehl <code>pwgen -cnsB 14</code> ein. Dann bekommst Du gleich einen ganzen Batzen guter Passwörter und musst Dir nur noch eins aussuchen.
 
-Zunächst ist wichtig, um welches der [beiden möglichen Passwörter](#zwei-accounts) (*wohnen* oder *post*) es sich handelt. Denn daran unterscheidet sich, mit welchem Ziel Du Dich [per SSH verbinden](#ssh) musst.
+Zunächst ist wichtig, um welches der [beiden möglichen Passwörter](#die_zwei_accounts_wohnen_und_post) (*wohnen* oder *post*) es sich handelt. Denn daran unterscheidet sich, mit welchem Ziel Du Dich [per SSH verbinden](#per_ssh_verbinden) musst.
 
 **wohnen** <small>(Webspace, Extrawürste)</small>
 

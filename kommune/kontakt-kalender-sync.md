@@ -16,7 +16,7 @@ Mitbewohner\*innen der Kommune <span class="red-ish">&lt;3</span>, die keine Lus
 
 ## Konfiguration
 
-Zum Synchronisieren Deiner Kontakt- und Kalender-Daten musst Du Deine [post-Zugangsdaten](/kommune/reste-hilfe#zwei-accounts) verwenden. Nicht vergessen!
+Zum Synchronisieren Deiner Kontakt- und Kalender-Daten musst Du Deine [post-Zugangsdaten](/kommune/reste-hilfe#die_zwei_accounts_wohnen_und_post) verwenden. Nicht vergessen!
 
 ### Allgemein
 

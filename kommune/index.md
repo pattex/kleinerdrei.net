@@ -13,7 +13,7 @@ Zur Zeit bietet sie allen Mitbewohner\*innen:
 * [Kontakt & Kalender Sync](/kommune/kontakt-kalender-sync)
 * Extrawürste (vegan!)
 
-Außerdem stellt die Kommune <span class="red-ish">&lt;3</span> einen öffentlichen [Jabber/XMPP-Server](/jabber) für alle zur Verfügung.
+Außerdem stellt die Kommune <span class="red-ish">&lt;3</span> einen öffentlichen [Jabber/XMPP-Server](/jabber) für alle (also auch Nicht-Mitbewohner\*innen) zur Verfügung.
 
 Diese Seiten hier sind als Hilfe und Information für Mitbewohner\*innen gedacht und sollen stetig ausgebaut werden. Antworten auf Fragen zu einem bestimmten Service befinden sich höchstwahrscheinlich auf der entsprechenden Seite zum Thema.  
 Die Frage, wie der E-Mail-Account auf dem eigenen Smartphone einzurichten ist, wird z.B. höchstwahrscheinlich auf der [E-Mail-Seite](/kommune/email) beantwortet. Alles weitere sollte hoffentlich eines Tages in der [Reste-Hilfe](/kommune/reste-hilfe) geklärt werden.

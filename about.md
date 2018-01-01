@@ -56,11 +56,6 @@ Germany
     </p>
     <ul>
       <li>
-        Du findest an fast allem, was ich so produziere, solche kleinen <a href="https://flattr.com">Flattr</a>-Buttons:
-        <a class="FlattrButton" style="display:none;" title="kleinerdrei.net &lt;3" href="https://kleinerdrei.net"  data-flattr-uid="pattex" data-flattr-popout="1" data-flattr-button="compact" data-flattr-category="text" data-flattr-language="en_GB">kleinerdrei.net &lt;3</a><br>
-        Wenn Du einen Flattr-Account hast – was ich empfehle – kannst Du mich und <a href="https://flattr.com/catalog" title="Catalog - Flattr.com">viele andere</a> auf diesem Weg sehr gut unterstützen.
-      </li>
-      <li>
         Des weiteren freue ich mich immer sehr über Geschenke von meiner <a href="http://www.amazon.de/registry/wishlist/SVTTOPEX09XF">Amazon Wunschliste</a>.
       </li>
       <li>
@@ -76,11 +71,6 @@ Germany
       You like the stuff I do, you've got too much money or you may want to treat someone (me)? Here are some options::
     </p>
     <ul>
-      <li>
-        On pretty much everything I produce you'll find those small <a href="https://flattr.com">Flattr</a> buttons:
-        <a class="FlattrButton" style="display:none;" title="kleinerdrei.net &lt;3" href="https://kleinerdrei.net"  data-flattr-uid="pattex" data-flattr-popout="1" data-flattr-button="compact" data-flattr-category="text" data-flattr-language="en_GB">kleinerdrei.net &lt;3</a><br>
-        As long as you have a Flattr account – and I recommend this – you are able to support me and <a href="https://flattr.com/catalog" title="Catalog - Flattr.com">many others</a> this way.
-      </li>
       <li>
         In addition I'm always super duper happy about gifts from my <a href="http://www.amazon.de/registry/wishlist/SVTTOPEX09XF">Amazon wishlist</a>.
       </li>

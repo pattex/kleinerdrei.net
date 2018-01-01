@@ -12,7 +12,6 @@ title: Blog
   {{ post.content }}
  <footer class="well well-small">
   {{ post.date | date_to_long_string }}
-  <span class="pull-right">{{ site | flattr_button:post }}</span>
  </footer>
 </article>
 {% endfor %}

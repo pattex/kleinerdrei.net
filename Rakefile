@@ -16,8 +16,7 @@ post_header = {
   'title'           => nil,
   'layout'          => 'post',
   'tags'            => nil,
-  'subtitle'        => nil,
-  'flattr_category' => 'software/text/images'
+  'subtitle'        => nil
 }
 
 task :default => [:build]

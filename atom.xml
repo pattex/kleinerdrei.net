@@ -21,7 +21,6 @@ layout: nil
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
-   {{ site | flattr_atom:post }}
  </entry>
  {% endfor %}
 

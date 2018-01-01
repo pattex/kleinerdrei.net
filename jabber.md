@@ -4,18 +4,18 @@ title: jabber.kleinerdrei.net
 ---
 # jabber.kleinerdrei.net
 
+<!---
 <div class="alert alert-success">
   <h2>Geöffnet / Open</h2>
   <p>Zurzeit ist <strong><em>jabber.kleinerdrei.net</em></strong> offen zum Anlegen neuer Accounts.</p>
   <p><strong><em>jabber.kleinerdrei.net</em></strong> is open for account creation at the moment.</p>
 </div>
+-->
 
-<!---
 <div class="alert alert-error">
   <h2>Registration Closed!</h2>
   <strong><em>jabber.kleinerdrei.net</em></strong> is closed for registration at the moment. Try again in a while.
 </div>
--->
 
 * [Einen neuen Account anlegen](#einen_neuen_account_anlegen)
 * [Passwort vergessen](#passwort_vergessen)

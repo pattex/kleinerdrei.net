@@ -42,11 +42,6 @@ title: About Arne Eilermann
 * [twitter.com/pattex](https://twitter.com/pattex/)
 * [keybase.io/pattex](https://keybase.io/pattex)
 
-Arne Eilermann  
-Ritterstraße 181  
-47805 Krefeld  
-Germany
-
 ## Support
 
 <div class="row-fluid">

@@ -8,25 +8,23 @@ I hereby claim:
   * I am pattex (https://keybase.io/pattex) on keybase.
   * I have a public key with fingerprint 3AAB 0B52 8958 4BED 647C  429B D67D 5336 85A8 013B
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.3"
-        },
         "key": {
+            "eldest_kid": "01014ce99b50bc52839c3faaa84931610792a7802c69b34cd27bca7d5c6c36ddf3eb0a",
             "fingerprint": "3aab0b5289584bed647c429bd67d533685a8013b",
             "host": "keybase.io",
-            "key_id": "D67D533685A8013B",
+            "key_id": "d67d533685a8013b",
+            "kid": "01014ce99b50bc52839c3faaa84931610792a7802c69b34cd27bca7d5c6c36ddf3eb0a",
             "uid": "42705e4d570ff6adc06c9f9c58141200",
             "username": "pattex"
         },
-        "merkle_root": {
-            "ctime": 1416386158,
-            "hash": "040d7aa2d9d1351123c084b521e8b382e2ae28fe7f4cdb106bf20ea7079b058b55a0b1a1039b16c3ffe4829062a10ac3396989facc6b1fd860918e91228f21c2",
-            "seqno": 96828
+        "revoke": {
+            "sig_ids": [
+                "9e7e476051530b91d451c4efc45a124d665d99bbe75f02c120cc3b662344bf4b0f"
+            ]
         },
         "service": {
             "hostname": "kleinerdrei.net",
@@ -35,44 +33,42 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1416386568,
+    "ctime": 1472552985,
     "expire_in": 157680000,
-    "prev": "fed31a99cf78c64b5f69724bbbb3f788f1b4cf9faf7a7dd65a531240c936fc8a",
-    "seqno": 14,
+    "prev": "03a708296a2b42e12446d4813e5780485ca7ef5829fd3658d199a5010e363fd3",
+    "seqno": 25,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v2
-Comment: GPGTools - http://gpgtools.org
+Version: GnuPG v1
 
-owFVkntQFVUcx+/lodeSRB4pRKA7CGTXy74fMOGkTKMDSek1SRov+zgLy2MXdi9X
-kLlpNpgYqJCEowOmSKFiDCjaYBop9CIYZZQGGrkCEiE2KOU0mma7hFOev875/T7n
-e37f3+/s9fM2Wcx97nVkSYM53tw1zpnsOamWYohThCIorhjicyQgO42dzOYCKA7K
-BkUcqwGbpCySFQHYsrRFM4wVcgFVkxRZp2AbZcMgt9XAjcuiJGcANU+VDC0IY1kO
-5giUZgga54BA4hSPowwnkJRAYBhJEywNIxinS2YqmvOpV6FpTYck6NFEkkr8l3/V
-4FfouYLpBI5SMAFwgaBgUSRZgYdJnhEZnqARHEFh2AA1oM5YymOdTlBoVJsL1Owc
-4FAVZdoy75QMQL9DYjSJELReD6tlGv5wWKBYFhUYAcEIBEExHtatECgCaA6jUYCy
-AKVFQIk4L3AITHIiCgOWgimGgwmaIwgW5hAWgTGGQ0geE0WA0ygDk6geY3kMY0iG
-ZkSW50kOEQWahBmEBgyC6qIowqO6AQ3kywoUx5A0SruNo+qSeGCUbfTsybRygCQD
-VVCBZJOBMaM8VXEqvJKjJzOdzjwtzvDtLMoz6M2Aa3LMCDk4SRb0qf1/rIiOPt0T
-gtR7AgrzJBU4JIMgKJKG9WU8BFy6pggEDGEZhhcpmif1FokkQ6E4py9MD9EiwuG8
-qFsVKZYSBJJgCQxBcZhnMFLkafY/pwiuF8pm6JqalCGzzgIVQO5SrzAfk9limuXr
-ZXxc0zNz/J/85hOav6npctK+SzGTCclNa3dlVGwb91seHJViCwfVuZ5lDfHXetqh
-zLc539kPfMxVMeu77I+Oxvilpm37MSfb+xzSXH/rWPYVpuZAbmV3xDvfFIf43PMt
-4mqSW5UfVkdedPdHfnv7hU2P+1oOxWslA5eCz/xN+4S0jZUX+6emJ67Qjnz85X3w
-8OWC4FbruHnoowuWtT0jnc9F952cXR8RZeqQwq4vmChfeBV1rVLTPq+yj59d8nvU
-NiHleH3x6i/gzadCGyvmVk8Nf/paaF34TY8nlejb0V4VXnCIkuc1j0cXLp0K/Gu0
-OvZ0+114cbLoyf/6nPe+6zt/OTg21Z9VfKDbE/jmVzduu1buKo8cbtze/b1lD/7u
-naAjQo3f5e8m3yj988XK6FtFvD19Yn/W8YCuMMdPv/VH9Z9Y09bJveLZcjHFUhg0
-Kw1Omn9zSb7PWz17Lyy9MlbaOkiqj71Lat/reLR74bHarWsGhTu9m5IiSpeNuFdZ
-N27o8T/jmrC275579vAHsc/P2TrUOBZevr9hIP38cn7P4ZIbtUMLgrzqAwk1NWv7
-cKCp0kX+3NYrv1SWsHFeQnN0iC0A+XB+edkktAMJHbUPjbR8UrcyejGfFa+een/9
-0WdP0r0Hf23sG/O1NNz9I/9eXcfA1THr1IbXZeWzLROdgyETdtF+fl11F9/8oGX0
-fkDQw9hrElxRdvof
-=EB/P
+owGtkm1QVFUYx1mIF4WSZAICVvFq40QI9+2ce+86U9PoKDAGFE0w49Z6X85drgu7
+y+7yFjCNFY0gAqnIlEKSOJpGQSU2DIPFiwzRMJEh2yDgRBgvTiNjpqw70FnGvvWx
+8+XOee7/+T3/8z+n/skAvxDdjYosWHlBt1M3PC/5ZQ8cYMsIyaaUEoYywoLWPihP
+QU6XyaIphIEgKZJiZSQIEiAlGdA8I8iMKooizwoMBSmSE2iR40lahoLEsLJCc5Is
+cgqQocxARVEZJJEikUiomtWMHHaHZnVhLCOKEilhnAB4VkIKZDmZpQVJgbiVYSAP
+RJ6kGAk35tqcvg5sThKdKEmz4RremNbs/Yf+f/ZduIZjaY4EiFUAR6oqFBWZhLKg
+CjLgKZaiSdIndCKHVcxHWG0XXS5UQlQkEg5UZLMgX6pOzYwtOwnDfkJAHGI5SAIK
+MKQkUAoLKJlFqswCkaJZBUKgYOMS4oCKDWK+LDMShDTDspLKSqRKvInZeF6RJq/B
+fRk9nm3JQ5oVORQH0pKsyIWN2R02l0225eGfuS6X3WnwGXOV2lEnrhQjyfQYZJI0
+q4JvCbcUIYdTs1kJA4WlskvzkSmWowGgBR4kEqjErjmQSfMpAAd5Ei/fIFTki54R
+OZKnBSjSEksjfCIWKixPMQjgwFke4JyRCrBCVRgIeIUSBBHgC0MMZHCJ8B2twGoj
+DDQe5RLNmInTs4quQgciKtZX+cc94acL8QsK9Pe9X7/168L/fdTbIjasFqs3WvnU
+q/Onq6uSnrfkhbZV7RueGc/Sj3xce/b4D5cLZ+97zziCK8svb9E/XOdO778dHNXY
+sTp8RYqJdccPHRn/Lg3uSJn44tJiX1dR2IPwS5/lPNeQUNLU091lGzvRETc/0+Zt
+firij/mt4d7JBktEx7bwuilj/EepMW3xc3N3u06cS+jbHKiWe9XZjLkIIfbQnZHk
+b0HrCNiQc//M0Z/2ehjPpvrxtMS/jTGMGN35KDpfWE7TD/vXDJWBxEEO5scKezL8
+Q00f9gVfPBUaPbrx9+wxz1h35Orp0kMtj95zJ9ybAA1JzVmRS1vrpm/d3kN6BjvN
+u2zV1qab3atVf10vyXyXuT6cfvDZ81Ly7ocXG+4WJDh/bs8cOBx0ZWg0oPBa7jsv
+RDq9T+s4Z+EHOQW1Q68vv6hfoaf2xaWvdhtTtJqWOnPmwuBuT+XG44ujxe0tcQlf
+u/e/Is/A5cD66rFqtwlMrlzoW3jfktr65eZBjentthjDxsoDZxez0a4a+7WBswd1
+/bfEqy9H6u+8OvHWzdd6M5orvtoZci8X1gcfazn/aa15vnEhwLj91DNR5p7yjMrD
+v/2S8oa3INW5crL3k8kHSz1L38yOePqOHPi8EUbVnNy+Y1q3d6nO1J6Z1h94rLNJ
+f7StPedc8vdB+l/rdGGlecaRdveWl6amm5vJTX/+mKq9/Q8=
+=Hco+
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -81,3 +77,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/pattex
 
 ==================================================================
+

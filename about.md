@@ -37,8 +37,9 @@ title: About Arne Eilermann
 
 ## Contact me
 
-* email: arne \[ät\] kleinerdrei.net ([PGP public key](/files/85A8013B.asc))
+* email: arne \[ät\] kleinerdrei.net ([PGP public key](/files/8843B5D9.asc))
 * jabber: [arne@jabber.kleinerdre.net](xmpp:arne@jabber.kleinerdre.net)
+* [chaos.social/@arne](https://chaos.social/@arne)
 * [twitter.com/pattex](https://twitter.com/pattex/)
 * [keybase.io/pattex](https://keybase.io/pattex)
 

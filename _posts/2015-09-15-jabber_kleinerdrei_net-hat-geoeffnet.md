@@ -2,7 +2,7 @@
 title: jabber.kleinerdrei.net hat geöffnet
 layout: post
 tags: ["de"]
-subtitle: Dies ist ein Subtitle
+subtitle: 
 flattr_category: software
 ---
 Eine der wichtigsten Eigenschaften des von mir so sehr gemochten [Jabber-Protokols (XMPP)](https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) ist seine Dezentralität. Ähnlich wie bei der guten alten E-Mail haben die Teilnehmer\*innen einen Account auf irgendeinem Server. Die vielen Server arbeiten fein zusammen und so entsteht ein ausgesprochen robustes Netzwerk, bei dem zwar mal einzelne Knoten (Server) kaputt sein können, was dann ärgerlich für einzelne Teilnehmer\*innen ist, das im Großen und Ganzen aber kaum kaputt zu bekommen ist.

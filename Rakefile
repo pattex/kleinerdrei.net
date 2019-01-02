@@ -29,7 +29,7 @@ end
 desc "Puts a new post template in #{PATHS[:posts]}."
 task :post do
   if ENV['title'].nil?
-    abort('Usage: rake episode title="Title of your post"')
+    abort('Usage: rake post title="Title of your post"')
   end
 
   unless FileTest.directory?(PATHS[:posts])

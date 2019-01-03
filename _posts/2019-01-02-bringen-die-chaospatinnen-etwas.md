@@ -14,7 +14,7 @@ Die Chaospatinnen versuchen Erstbesucher:innen des Chaos Communication Congress 
 
 ## Und, bringt das nun was?
 
-Ich habe die Frage der Journalistin dann relativ verkürzt beantwortet. Sie hat mich danach jedoch noch weiter beschäftigt, denn ich finde sie gar nicht so leicht zu beantworten. Zunächst mal gilt es allerdins zu klären, was denn die Chaospatinnen überhaupt wollen und auch das ist schwierig. Sowohl im Orga-Team als auch unter den Mentor:innen sind Motivationen sehr vielfältig.
+Ich habe die Frage der Journalistin dann relativ verkürzt beantwortet. Sie hat mich danach jedoch noch weiter beschäftigt, denn ich finde sie gar nicht so leicht zu beantworten. Zunächst mal gilt es allerdins zu klären, was denn die Chaospatinnen überhaupt wollen und auch das ist schwierig. Sowohl im Orga-Team als auch unter den Mentor:innen sind die Motivationen sehr vielfältig.
 
 Blicken wir nicht sonderlich weit und sagen, dass die Chaospatinnen ausschließlich darauf abzielen, Erstbesucher:innen die Einstieg leichter zu machen, ist es einfach. Wir haben in diesem Jahr rund 200 Mentees mit knapp 50 Mentor:innen in Gruppen zusammen gebracht. Sowohl Mentor:innen als auch Mentees haben mir viele Feedback gegeben und unter dem Strich, kann ich sagen, wir waren sehr erfolgreich.
 
@@ -58,7 +58,7 @@ Auf dem 34C3 wollte ich besser zählen, habe es dann aber leider völlig verpeil
 
 ### 35C3
 
-Auf dem 35C3 Habe ich e etwas besser gemacht. Ich bin bei zwei Gruppen geblieben, denn ich habe solche mechanischen Klick-Zähl-Dinger verwendet und verfüge nur über zwei Hände. Dieses mal habe ich in Personen, die ich als cis Mann (Dude-Nerd) lese und alle Anderen unterteilt. Da dies am nächsten an das Verhältnis kommt, das mich tatsächlich interessiert.  
+Auf dem 35C3 Habe ich es etwas besser gemacht. Ich bin bei zwei Gruppen geblieben, denn ich habe solche mechanischen Klick-Zähl-Dinger verwendet und verfüge nur über zwei Hände. Dieses mal habe ich in Personen, die ich als cis Mann (Dude-Nerd) lese und alle Anderen unterteilt. Da dies am nächsten an das Verhältnis kommt, das mich tatsächlich interessiert.  
 Ich habe mich zu drei verschiedenen Zeitpunkten an drei verschiedene Durchgänge gesetzt und große Anzahlen von Personen durchgezählt.
 
 Tag 2 (Junghacker-Tag) von 14:40 Uhr bis 15:40 Uhr, am Punk-Späti (schön war das!)  

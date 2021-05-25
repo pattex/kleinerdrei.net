@@ -2,6 +2,7 @@
 layout: post
 title: Adopt a bit
 categories: blog
+date: 2011-12-13
 tags:
 - adopt a bit
 - toys

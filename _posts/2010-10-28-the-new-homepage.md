@@ -5,5 +5,6 @@ tags:
 - invasion
 - homepage
 - en
+date: 2010-10-28
 ---
-!/files/invasion/the_new_homepage.png!
+<img src="/files/invasion/the_new_homepage.png" class="img-responsive">

@@ -1,5 +1,0 @@
-title: kleinerdrei.net &lt;3
-permalink: /:year/:month/:day/:title
-url: https://kleinerdrei.net
-exclude:
-- README.textile

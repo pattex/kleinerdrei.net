@@ -2,6 +2,7 @@
 title: Bringen die Chaospatinnen etwas?
 layout: post
 tags: ["de"]
+date: 2019-01-02
 subtitle: "Gender, Diversität und der Chaos Communication Congress"
 ---
 Beim 35C3 habe ich die Organisation der Chaospatinnen/Chaos Mentors von [Fiona](http://fiona-krakenbuerger.de/) übernommen. Neben vieler anderer Dinge, die ich mit dieser Aufgabe zu erledigen hatte, sprach ich mit einigen Pressevertreter:innen und wurde dabei irgendwann auch mal gefragt, ob ich denn wohl fände, dass die Chaospatinnen etwas bringen.

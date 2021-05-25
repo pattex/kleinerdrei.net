@@ -3,3 +3,4 @@ _drafts/
 _site/
 _config.yml
 .ruby-version
+.jekyll-cache
